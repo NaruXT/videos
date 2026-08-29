@@ -1,0 +1,5 @@
+models/
+*.mp4
+*.srt
+*.txt
+.bats-tmp/
